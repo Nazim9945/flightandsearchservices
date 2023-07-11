@@ -22,4 +22,6 @@ add the following peice of json
 
 ```
 
+
 -Once you've done with adding your db config as listed above,go to src folder from terminal and execute `npx sequelize db:create`
+
